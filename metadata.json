@@ -1,0 +1,5 @@
+{
+  "name": "Jogo do Amor",
+  "description": "Um jogo simples e divertido para se divertir com seus filhos, movendo uma flor para descobrir frases de amor escondidas. Baseado no código HTML e JavaScript original, recriado com React e Tailwind CSS para uma experiência moderna.",
+  "requestFramePermissions": []
+}
